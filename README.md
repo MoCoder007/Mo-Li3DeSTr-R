@@ -64,7 +64,7 @@ The Mo-Li3DeSTr project showcases critical innovations:
 ![Cycle Detection Counts Across Rain Conditions](https://github.com/MoCoder007/Mo-Li3DeSTr--Robust-LiDAR-Sensor-for-3D-Object-Detection-with-Transformers-Network-in-Rainy-Weather/blob/main/Cycle%20Detection%20Counts%20Across%20Rain%20Conditions.PNG)
 
 ## Simulation Camera View
-![Simulation Camera View]((https://github.com/MoCoder007/Mo-Li3DeSTr-R/blob/main/Mo-Li3DeSTr-R-Carla-Simulation-Camera-View.jpeg))
+![Simulation Camera View](https://github.com/MoCoder007/Mo-Li3DeSTr-R/blob/main/Mo-Li3DeSTr-R-Carla-Simulation-Camera-View.PNG)
 
 ## Simulation Lidar View
 ![Simulation Camera View](https://github.com/MoCoder007/Mo-Li3DeSTr--Robust-LiDAR-Sensor-for-3D-Object-Detection-with-Transformers-Network-in-Rainy-Weather/blob/main/Simulation%20Lidar%20View.PNG)
